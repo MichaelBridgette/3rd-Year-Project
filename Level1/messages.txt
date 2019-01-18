@@ -1,0 +1,18 @@
+150
+650
+Use the Left Joystick To Move
+700
+500
+Press A To Jump
+1150
+700
+Pick Up Treasure To Gain Score
+1600
+550
+Press B To Throw A Bomb, They Blow Up Dirt Blocks
+2400
+450
+Press X To Attack An Enemy With Your Sword
+3000
+350
+Touch the goal To End The Level
